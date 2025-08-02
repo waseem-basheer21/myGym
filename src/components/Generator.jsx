@@ -152,7 +152,7 @@ export default function Generator(props) {
           );
         })}
       </div>
-      <Button func={updateWorkout} text={"Formulate"}></Button>
+      <Button func={updateWorkout} text={"Formulate and scroll down"}></Button>
     </SectionWrapper>
   );
 }

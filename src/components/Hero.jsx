@@ -14,7 +14,7 @@ export default function Hero() {
         I hereby acknowledgement that I may become
         <span className="text-blue-400 font-medium">
           unbelievably swolenormous
-        </span>{" "}
+        </span>
         and accept all risks of becoming the local{" "}
         <span className="text-blue-400 font-medium">mass montrosity</span>,
         afflicted with severe body dismorphia, unable to fit through doors.
